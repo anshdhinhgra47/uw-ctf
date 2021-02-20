@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+
+#main-heading {
+    text-align: center;
+    padding: 5%;
+}
+
+#ctf-key {
+    text-align: center;
+    padding: 5%;
+}
+
+#ctf-final-key {
+    display: none;
+    /* Yayy!! You finally found the key:
+
+    rTy86deqU1nalMz
+
+    Keep in mind the format while submitting your flag: uwCTF{} */
+}
+
+#clue-1 {
+    text-align: center;
+}

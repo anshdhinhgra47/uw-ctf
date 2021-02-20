@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+#main-heading {
+    text-align: center;
+    padding: 5%;
+}
+
+#sad-comment {
+    text-align: center;
+    padding: 5%;
+}
+
+#clue-1 {
+    text-align: center;
+}
