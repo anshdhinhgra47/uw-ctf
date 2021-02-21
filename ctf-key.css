@@ -21,15 +21,12 @@ body {
 
 #ctf-final-key {
     display: none;
-    /* Yayy!! You finally found the key:
+    /*
+    Here's the key:
 
-    rTy86deqU1nalMz
+    418bf76abfed4e04
 
     Keep in mind the format while submitting your flag: uwCTF{the_final_key} 
-    Enter the key inside the braces, without any spaces
+    Enter the key inside the braces without any spaces
     */
-}
-
-#clue-1 {
-    text-align: center;
 }
